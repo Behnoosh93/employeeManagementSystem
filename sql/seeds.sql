@@ -17,5 +17,6 @@ INSERT INTO department(id, name)
 VALUES(2415, "Engineer");
 
 INSERT INTO department(id, name)
-VALUES(2416, "salePerson");
+VALUES(2416, "sale");
 
+SELECT * FROM department;
