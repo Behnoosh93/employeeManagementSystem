@@ -1,0 +1,10 @@
+CREATE DATABASE employe_sDB;
+
+USE employe_sDB;
+--CREATING TABLE FOR DEPARTMENT
+CREATE TABLE department(
+    id INT NOT NULL , 
+    name VARCHAR(30) NOT NULL,
+    PRIMARY KEY (id)
+);
+
