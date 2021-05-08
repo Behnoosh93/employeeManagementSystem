@@ -1,4 +1,8 @@
+const mysql = require("mysql");
 const connection = require("./lib/login");
+const inquirer = require("inquirer");
+const figlet = require("figlet");
+
 
 
 // Required Packages
